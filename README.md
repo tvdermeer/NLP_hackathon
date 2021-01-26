@@ -9,7 +9,7 @@ All the
 ### Plan of action
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tvdermeer/NLP_hackathon/blob/main/NLP_hackathon_fine_tuning.ipynb) Fine-tune our own model
-- Run metrics for testing our model
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tvdermeer/NLP_hackathon/blob/main/NLP_hackathon_metrics.ipynb Run metrics for testing our model
 - Use model in a Streamlit application 
 
 Think about your use case? Question answering, POS tagging, summarization. What language? Plain english, Dutch or use a seq2seq model for translation?  
