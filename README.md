@@ -8,7 +8,7 @@ All the
 
 ### Plan of action
 
-- Fine-tune our own model [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/tvdermeer/NLP_hackathon/blob/main/NLP_hackathon_fine_tuning.ipynb)
+- Fine-tune our own model [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tvdermeer/NLP_hackathon/blob/main/NLP_hackathon_fine_tuning.ipynb)
 - Run metrics for testing our model
 - Use model in a Streamlit application 
 
