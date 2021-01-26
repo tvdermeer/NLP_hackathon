@@ -16,5 +16,5 @@ Think about your use case? Question answering, POS tagging, summarization. What 
 
 ### some other links that are useful 
 - Hugging transformers documentation 
-- Datasets explorer
+- Datasets explorer [link](https://huggingface.co/datasets/viewer/)
 - Streamlit documentation
